@@ -1,0 +1,12 @@
+.appBottom {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #9dc6ca;
+    color: #28282b;
+    text-transform: uppercase;
+  }

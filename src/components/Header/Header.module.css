@@ -1,0 +1,23 @@
+.appTopper {
+    box-sizing: border-box;
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+    padding: 10px;
+    background-color: #9dc6ca;
+    color: #28282b;
+    text-transform: uppercase;
+  }
+  
+  .appTopper h1 {
+    margin: 5px;
+    font-size: x-large;
+    line-height: 1.2;
+  }
+  
+  .subtitle {
+    font-size: medium;
+    color: #28282b;
+    text-transform: none;
+    text-decoration: none;
+  }
